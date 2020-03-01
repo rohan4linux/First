@@ -1,9 +1,6 @@
 one
-<<<<<<< HEAD
 two - from_feature
-=======
 two
 three - from_github
 four - from_local
 four - from_github
->>>>>>> 8665d7543322408020f3082e38f2f987d48a5ff0
