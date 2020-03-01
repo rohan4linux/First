@@ -1,4 +1,5 @@
 one
 two
 three - from_github
-four
+four - from_local
+four - from_github
